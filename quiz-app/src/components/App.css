@@ -1,0 +1,28 @@
+/* src/App.css */
+.quiz-container {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .question-container {
+    margin: 20px 0;
+  }
+  
+  .options button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .results-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .results-container button {
+    margin-top: 20px;
+    padding: 10px 20px;
+  }
+  
